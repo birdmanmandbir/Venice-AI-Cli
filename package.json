@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "openai": "^4.80.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.12.0"
   }
 }
